@@ -133,10 +133,25 @@ body {
 			 
 			</td>
 			<td colspan="2" id="desarrollador" width="80%">
+			
+			<table id ="detalleUsuarios" cellpadding="1" cellspacing="1" border="1" style="border: 1px solid white;" > 
+				    	<tr id="encabezado" style="border-width: 2px" id="fila0">
+				    		<td ><input id="radioSel"
+										name="radioSel"  type="radio"
+										> </td>
+				    		<td > ID Usuario </td>
+				    		<td > Usuario </td>
+				    		<td > ID de dispositivo </td>
+				    		<td > IP de conexión </td>
+				    		<td > Permisos </td>
+				    	</tr>
+			<tr><td colspan="6">
 			<iframe width="100%" height="500px" id="frameDet" name="frameDet" src="utils.php?act=init" style="border: none;" >
 				<font color="white">
 				</font>
 			</iframe>
+			</td>
+			</tr>
 				    <!-- 
 				    <table id ="detalleUsuarios" cellpadding="1" cellspacing="1" border="1" style="border: 1px solid white;" > 
 				    	<tr id="encabezado" style="border-width: 2px" id="fila0">
