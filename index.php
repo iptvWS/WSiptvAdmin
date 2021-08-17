@@ -73,7 +73,7 @@ body {
 			 			<td >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#desarrollador" style="color: red">Bloqueo de Usuarios</a><td>
 			 		</tr>
 			 		<tr height="50px">
-			 			<td >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#ITSTV" style="color: blue">Edición</a><td>
+			 			<td >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#ITSTV" style="color: blue">Edici&oacute;n</a><td>
 			 		</tr>
 			 		<tr height="50px">
 			 			<td >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#CSTV2" style="color: red"></a><td>
