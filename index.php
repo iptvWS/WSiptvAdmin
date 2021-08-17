@@ -18,7 +18,7 @@ body {
   width: 100%;
   height: 170px;
   z-index: 1;
-   background-color:#0e0d3c;
+   background-color:#330b2d;
   opacity: 0.9;
 }
 #div_lateral{
@@ -32,12 +32,12 @@ body {
 
    height: 68%;
    width: 170px;
-   background-image: url('bannerL.png');
+   background-image: url('');
    background-position: left;
    background-repeat: no-repeat;
    background-size: cover;
      background-size: 100% 100%;
-  background-color:#0e0d3c;
+  background-color:#330b2d;
   opacity: 0.9;
   margin-left:0px; /*Con este margen posicionamos el div donde queramos*/
 }
@@ -54,16 +54,16 @@ body {
 	}
 </script>
 </head>
-<body   style="background-image: url('fondo6.png');   background-position: left;
+<body   style="background-image: url('');   background-position: left;
    background-repeat: no-repeat;
    background-size: cover;
-   background-color:navy;
+   background-color:#330b2d;
      background-size: 100% 100%;text">
 
 
 <font color="white">
 
-<img id="banner" src="banner8.png" style="" alt="Banner Image"/>
+<img id="banner" src="WTSPlay.jpg" style="" alt=""/>
 <div id="div_lateral"  >
 			 	<table >
 			 	<tr height="50px">
